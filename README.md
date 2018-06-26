@@ -54,3 +54,5 @@ python label_wav.py --wav <audio file> --graph Pretrained_models/DNN/DNN_S.pb
 
 A quick guide on quantizing the KWS neural network models is [here](Deployment/Quant_guide.md). 
 The example code for running a DNN model on a Cortex-M development board is also provided [here](Deployment). 
+
+Puya
